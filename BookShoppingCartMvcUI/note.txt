@@ -1,0 +1,11 @@
+
+
+part 4 : book model
+thêm dữ liệu bằng query thuần trong ssms
+bảng genre, book 
+
+parrt5: xử lí show book, home/index view 
+xử lí lọc theo genre, tìm kiếm theo tên sách
+
+
+
